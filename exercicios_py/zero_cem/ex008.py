@@ -1,0 +1,5 @@
+wall = float(input("Quantos M possui a altura ? "))
+wall1 = float(input("E a Largura ? "))
+area = float(wall * wall1)
+tinta = float(area/2)
+print(f'A area da parede é {area} e a tinta em litros sera necessario {tinta}')

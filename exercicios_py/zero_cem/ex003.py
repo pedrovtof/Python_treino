@@ -1,0 +1,5 @@
+n = float(input('Escolha um numero ! '))
+d = float (n * 2)
+t = float (n * 3)
+r = float (n ** 0.5)
+print(f'Retiramos o dobro de {d} ;\n O triplo {t} ;\n E a raiz {r} ;\n Do numero {n} para voce! ')

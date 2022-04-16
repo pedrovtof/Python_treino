@@ -1,0 +1,5 @@
+si = float(input('Insira valor atual '))
+ai = float(input('Insira valor acrescentar '))
+af = (ai/100)
+sf = si+(af*si)
+print(f"Valor novo {sf}")
